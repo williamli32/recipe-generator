@@ -1,0 +1,791 @@
+{
+    "proteins": [
+        {
+            "seafoods": [
+                {
+                    "name": "salmon",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Argentinian",
+                        "Mediterranean",
+                        "Japanese",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "seafood",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "pufferfish",
+                    "cuisine": [
+                        "Japanese",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "seafood",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "mussels",
+                    "cuisine": [
+                        "Japanese",
+                        "Spanish",
+                        "French",
+                        "Argentinian",
+                        "Mediterranean",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "seafood",
+                        "shellfish",
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "red meats": [
+                {
+                    "name": "steak",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Argentinian",
+                        "Korean",
+                        "Japanese",
+                        "French",
+                        "Italian",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "meat",
+                        "beef",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "lamb",
+                    "cuisine": [
+                        "Chinese",
+                        "Argentinian",
+                        "Mediterranean",
+                        "Middle Eastern",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "meat",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "pork",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Argentinian",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "meat",
+                        "pork",
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "poultry": [
+                {
+                    "name": "chicken",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Argentinian",
+                        "French",
+                        "Italian",
+                        "Spanish",
+                        "Indian",
+                        "Korean",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "meat",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "turkey",
+                    "cuisine": [
+                        "American",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "meat",
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "vegetarian": [
+                {
+                    "name": "tofu",
+                    "cuisine": [
+                        "Chinese",
+                        "Japanese",
+                        "Korean",
+                        "Indian",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "soy",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "chickpeas",
+                    "cuisine": [
+                        "Indian",
+                        "Spanish",
+                        "Italian",
+                        "Middle Eastern",
+                        "Argentinian",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "black beans",
+                    "cuisine": [
+                        "American",
+                        "Spanish",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "eggs",
+                    "cuisine": [
+                        "American",
+                        "Middle Eastern",
+                        "French",
+                        "Korean",
+                        "Mediterranean",
+                        "Indian",
+                        "Argentinian",
+                        "Chinese",
+                        "Japanese",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "non-vegan",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "chorizo",
+                    "cuisine": [
+                        "Spanish",
+                        "Argentinian",
+                        "Italian",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "non-vegan",
+                        "break"
+                    ]
+                }
+            ]
+        }
+    ],
+    "vegetables": [
+        {
+            "cruciferous": [
+                {
+                    "name": "broccoli",
+                    "cuisine": [
+                        "American",
+                        "Argentinian",
+                        "Chinese",
+                        "Japanese",
+                        "Korean",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "cauliflower",
+                    "cuisine": [
+                        "American",
+                        "Argentinian",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "brussels sprouts",
+                    "cuisine": [
+                        "American",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "leafy greens": [
+                {
+                    "name": "spinach",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Argentinian",
+                        "French",
+                        "Japanese",
+                        "Italian",
+                        "Mediterranean",
+                        "Spanish",
+                        "Indian",
+                        "Korean",
+                        "Middle Eastern",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "cabbage",
+                    "cuisine": [
+                        "American",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "romaine lettuce",
+                    "cuisine": [
+                        "American",
+                        "French",
+                        "Mediterranean",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "non-starchy vegetables": [
+                {
+                    "name": "onion",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "French",
+                        "Japanese",
+                        "Mediterranean",
+                        "Indian",
+                        "Argentinian",
+                        "Italian",
+                        "Middle Eastern",
+                        "Korean",
+                        "Spanish",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "bell pepper",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Indian",
+                        "Italian",
+                        "Spanish",
+                        "Mediterranean",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "asparagus",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Indian",
+                        "Japanese",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "tomato",
+                    "cuisine": [
+                        "American",
+                        "Argentinian",
+                        "French",
+                        "Italian",
+                        "Mediterranean",
+                        "Spanish",
+                        "Indian",
+                        "Middle Eastern",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "starchy vegetables": [
+                {
+                    "name": "corn",
+                    "cuisine": [
+                        "American",
+                        "Argentinian",
+                        "Chinese",
+                        "Middle Eastern",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "pumpkin",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Indian",
+                        "French",
+                        "Italian",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "butternut squash",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Indian",
+                        "Mediterranean",
+                        "Spanish",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "carrots",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Argentinian",
+                        "French",
+                        "Japanese",
+                        "Spanish",
+                        "Korean",
+                        "Indian",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                }
+            ]
+        }
+    ],
+    "carbs": [
+        {
+            "root vegetables": [
+                {
+                    "name": "potato",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "French",
+                        "Mediterranean",
+                        "Korean",
+                        "Indian",
+                        "Argentinian",
+                        "Japanese",
+                        "Middle Eastern",
+                        "Italian",
+                        "Spanish",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "sweet potato",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Indian",
+                        "Argentinian",
+                        "Japanese",
+                        "Middle Eastern",
+                        "Italian",
+                        "French",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "grains": [
+                {
+                    "name": "rice",
+                    "cuisine": [
+                        "American",
+                        "Chinese",
+                        "Indian",
+                        "Japanese",
+                        "Middle Eastern",
+                        "Mediterranean",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                },
+                {
+                    "name": "quinoa",
+                    "cuisine": [
+                        "American",
+                        "Indian",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "break"
+                    ]
+                }
+            ]
+        },
+        {
+            "pantry": [
+                {
+                    "name": "pasta",
+                    "cuisine": [
+                        "American",
+                        "Argentinian",
+                        "Italian",
+                        "Spanish",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "gluten",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "noodles",
+                    "cuisine": [
+                        "Chinese",
+                        "Japanese",
+                        "Korean",
+                        "break"
+                    ],
+                    "meal": [
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "gluten",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "sourdough bread",
+                    "cuisine": [
+                        "American",
+                        "Italian",
+                        "French",
+                        "Argentinian",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "gluten",
+                        "break"
+                    ]
+                },
+                {
+                    "name": "tortilla",
+                    "cuisine": [
+                        "American",
+                        "Spanish",
+                        "break"
+                    ],
+                    "meal": [
+                        "breakfast",
+                        "lunch",
+                        "dinner",
+                        "break"
+                    ],
+                    "restrictions": [
+                        "gluten",
+                        "break"
+                    ]
+                }
+            ]
+        }
+    ],
+    "secret_ingredients": [
+        {
+            "name": "pineapple"
+        },
+        {
+            "name": "maple syrup"
+        },
+        {
+            "name": "rose water"
+        },
+        {
+            "name": "nutmeg"
+        },
+        {
+            "name": "ricotta"
+        },
+        {
+            "name": "mango"
+        },
+        {
+            "name": "squid ink"
+        },
+        {
+            "name": "honey"
+        },
+        {
+            "name": "love"
+        },
+        {
+            "name": "walnuts"
+        },
+        {
+            "name": "coconut milk"
+        },
+        {
+            "name": "orange zest"
+        },
+        {
+            "name": "turmeric"
+        },
+        {
+            "name": "instant coffee"
+        },
+        {
+            "name": "goat cheese"
+        },
+        {
+            "name": "chili flakes"
+        },
+        {
+            "name": "taro root"
+        }
+    ]
+}

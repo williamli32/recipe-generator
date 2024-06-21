@@ -1,0 +1,272 @@
+{
+    "American": [
+        {
+            "sauces": [
+                "BBQ sauce",
+                "hot sauce",
+                "mustard",
+                "mayo",
+                "ketchup",
+                "ranch"
+            ],
+            "spices": [
+                "parsley",
+                "dried onion",
+                "thyme",
+                "dried dill"
+            ]
+        }
+    ],
+    "Chinese": [
+        {
+            "sauces": [
+                "soy sauce",
+                "oyster sauce",
+                "sweet bean sauce",
+                "douchi",
+                "sesame oil",
+                "fish sauce",
+                "plum sauce"
+            ],
+            "spices": [
+                "basil",
+                "cassia",
+                "coriander",
+                "chiles",
+                "cloves",
+                "cumin",
+                "garlic",
+                "ginger",
+                "lemongrass",
+                "spearmint",
+                "star anise",
+                "turmeric",
+                "Sichuan peppercorn",
+                "fennel"
+            ]
+        }
+    ],
+    "Argentinian": [
+        {
+            "sauces": [
+                "chimichurri",
+                "tomato sauce"
+            ],
+            "spices": [
+                "paprika",
+                "cumin",
+                "garlic",
+                "bay leaf",
+                "thyme",
+                "parsley",
+                "oregano",
+                "herbes de provence"
+            ]
+        }
+    ],
+    "Mediterranean": [
+        {
+            "sauces": [
+                "olive oil",
+                "pesto",
+                "hummus",
+                "tzatziki",
+                "harissa",
+                "babaganoush"
+            ],
+            "spices": [
+                "basil",
+                "oregano",
+                "rosemary",
+                "garlic",
+                "onion powder",
+                "bay leaf",
+                "cumin",
+                "fennel",
+                "lavendar"
+            ]
+        }
+    ],
+    "Japanese": [
+        {
+            "sauces": [
+                "ponzu sauce",
+                "teriyaki sauce",
+                "miso sauce",
+                "tonkatsu sauce",
+                "unagi sauce",
+                "okonomiyaki sauce",
+                "yakisoba sauce",
+                "soy sauce"
+            ],
+            "spices": [
+                "mirin",
+                "dashi",
+                "wasabi",
+                "miso paste",
+                "chili pepper",
+                "sesame seeds",
+                "ginger"
+            ]
+        }
+    ],
+    "Spanish": [
+        {
+            "sauces": [
+                "alioli",
+                "mayonesa",
+                "mojo rojo",
+                "mojo verde",
+                "almond salsa",
+                "cabrales salsa",
+                "tomate frito",
+                "vizcaina sauce",
+                "squid ink"
+            ],
+            "spices": [
+                "saffron",
+                "pimenton",
+                "nora",
+                "garlic",
+                "rosemary",
+                "cayenne pepper",
+                "oregano",
+                "paprika",
+                "cumin",
+                "nutmeg"
+            ]
+        }
+    ],
+    "French": [
+        {
+            "sauces": [
+                "bechamel",
+                "veloute",
+                "espagnole",
+                "hollandaise",
+                "tomato",
+                "allemande",
+                "beurre blanc",
+                "bearnaise",
+                "remoulade",
+                "rouille",
+                "lemon"
+            ],
+            "spices": [
+                "tarragon",
+                "parsley",
+                "white pepper",
+                "herbes de provence",
+                "chives",
+                "chervil"
+            ]
+        }
+    ],
+    "Indian": [
+        {
+            "sauces": [
+                "mint chutney",
+                "tamarind",
+                "mango chutney",
+                "coconut chutney",
+                "cilantro chutney",
+                "fafda chutney",
+                "tomato chutney",
+                "peanut chutney",
+                "gooseberry chutney",
+                "raita",
+                "curry sauce"
+            ],
+            "spices": [
+                "saffron",
+                "turmeric",
+                "cumin",
+                "nutmeg",
+                "red chili powder",
+                "coriander",
+                "cardamom",
+                "ginger",
+                "mustard seed",
+                "fenugreek",
+                "bay leaf"
+            ]
+        }
+    ],
+    "Italian": [
+        {
+            "sauces": [
+                "marinara sauce",
+                "pomodoro sauce",
+                "bolognese sauce",
+                "arrabiata sauce",
+                "aglio e olio",
+                "pesto",
+                "vodka sauce",
+                "carbonara sauce",
+                "bechamel sauce",
+                "alfredo sauce",
+                "lemon"
+            ],
+            "spices": [
+                "herbes de provence",
+                "basil",
+                "oregano",
+                "thyme",
+                "rosemary",
+                "sage",
+                "bay leaf",
+                "parsley",
+                "majoram",
+                "parmesan cheese"
+            ]
+        }
+    ],
+    "Korean": [
+        {
+            "sauces": [
+                "gochujang",
+                "doenjang",
+                "ssamjang",
+                "ganjang",
+                "black bean sauce",
+                "fish sauce",
+                "sesame oil"
+            ],
+            "spices": [
+                "chili pepper flakes",
+                "ginger",
+                "spring onions",
+                "soybean paste",
+                "garlic",
+                "barley malt"
+            ]
+        }
+    ],
+    "Middle Eastern": [
+        {
+            "sauces": [
+                "olive oil",
+                "yogurt",
+                "tahini",
+                "lemon",
+                "pomegranate molasses",
+                "hummus",
+                "zhoug"
+            ],
+            "spices": [
+                "sesame seeds",
+                "sumac",
+                "za'atar",
+                "cumin",
+                "nutmeg",
+                "cardamom",
+                "fenugreek",
+                "carraway",
+                "safron",
+                "cinnamon",
+                "anise",
+                "fennel"
+            ]
+        }
+    ]
+}

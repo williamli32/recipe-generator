@@ -1,0 +1,4 @@
+(library
+ (name recipe)
+ (public_name Recipe)
+ (libraries str yojson))
