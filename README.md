@@ -13,4 +13,5 @@ To run the project using the GUI, use command `dune build gui/main.exe` in termi
 
 `Ctrl+C` in terminal, to interrupt a running process
 
-
+### Note
+This is a public copy of a group project created by the authors listed above for Cornell's CS 3110 in Fall 2023.
